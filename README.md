@@ -1,5 +1,6 @@
 # My Project Portfolio  
-Welcome to my **Project Portfolio**! Here, I showcase a collection of my **Software Engineering** and **Cybersecurity** projects. These projects demonstrate my growth and skills in developing secure, scalable, and innovative solutions. 
+Welcome to my **Project Portfolio**! 
+Here, I showcase a collection of my **Software Engineering** and **Cybersecurity** projects. These projects demonstrate my growth and skills in developing secure, scalable, and innovative solutions. 
 
 ## 💻 What I Do
 I'm passionate about creating secure and efficient software systems. Whether it's designing robust APIs, implementing security measures, or developing data-driven applications, I strive to deliver high-quality solutions that solve real-world problems.
