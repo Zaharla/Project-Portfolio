@@ -24,13 +24,13 @@ I'm passionate about creating secure and efficient software systems. Whether it'
 
 Here are some of my most notable projects. Click on the project names to explore their details!
 
-###🍲 Python Recipe Generator
+### 🍲 Python Recipe Generator
 A Python-based recipe generator that suggests meals based on available ingredients and avoids allergens. This project showcases my ability to design and implement practical solutions to real-world problems.
 
-###📚 MySQL School Library Database
+### 📚 MySQL School Library Database
 A database system designed to manage a school library, featuring tables for books, students, and book loans. Built using MySQL, this project highlights my skills in database design, SQL queries, and data management.
 
-###🔐 Phishing Domain Detection API
+### 🔐 Phishing Domain Detection API
 A secure API that detects phishing domains to protect users from cyber threats. Developed with Flask and MySQL, this project emphasises my expertise in web security, API development, and database integration.
 
 ---
