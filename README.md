@@ -1,4 +1,4 @@
-# 🚀 My Project Portfolio  
+# My Project Portfolio  
 Welcome to my **Project Portfolio**! Here, I showcase a collection of my **Software Engineering** and **Cybersecurity** projects. These projects demonstrate my growth and skills in developing secure, scalable, and innovative solutions. 
 
 ## 💻 What I Do
@@ -33,11 +33,11 @@ A secure API that detects phishing domains to protect users from cyber threats. 
 
 ---
 
-## 🚀 Features
+## Features
 - **Clean & Scalable Code**: I follow best practices to ensure readability and maintainability.
 - **Security First**: All my projects are built with security in mind, utilising encryption, authentication, and validation techniques.
 - **Responsive UI**: I use modern web frameworks to build intuitive and responsive user interfaces.
 
 ---
 
-### 🎉 Thank you for visiting my portfolio! 🚀
+### 🎉 Thank you for visiting my portfolio! 
